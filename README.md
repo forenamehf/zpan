@@ -19,7 +19,7 @@ ZPan - Your Last disk on the cloud.
 - Support multiple languages
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/saltbo/zpan)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/forenamehf/zpan)
 
 
 ## Documentation
